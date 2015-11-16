@@ -9,4 +9,4 @@ public:
 	Hrizantema(int size, std::string name, std::string color);
 	~Hrizantema();
 
-};
+};//changed
